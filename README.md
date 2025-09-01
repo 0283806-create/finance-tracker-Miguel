@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Last update: Wed Aug 27 21:58:05 CST 2025
 Clean deployment ready
 Fix deployment - Thu Aug 28 10:34:06 CST 2025
+Updated Supabase config - Mon Sep  1 15:04:53 CST 2025
